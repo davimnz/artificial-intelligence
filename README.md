@@ -9,3 +9,11 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
+### Graphviz installation (on Ubuntu distro)
+```
+sudo apt install graphviz
+```
+
+
+
+
